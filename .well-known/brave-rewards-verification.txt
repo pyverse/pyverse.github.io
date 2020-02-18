@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pyverse.github.io
+Token: d7a141bf8765b262b174b446a28ddcc681ee2debc36cc50a9400c501eee6b80a
